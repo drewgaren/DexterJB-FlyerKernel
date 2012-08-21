@@ -1,3 +1,8 @@
+NOTE:
+You may run into an error building this kernel, I will be fixing this github in timely manner as I find any missing files. 
+In the mean time I will be incorporating a prebuilt kernel into the device folder for the Flyer so you may not run into any
+issues. This will happen as soon as all the kinks are worked out of the current build.
+	
 	Linux kernel release 2.6.xx <http://kernel.org/>
 
 These are the release notes for Linux version 2.6.  Read them carefully,
